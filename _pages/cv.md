@@ -49,32 +49,35 @@ _Research project assisted by Prof.Zhao in China Pharmaceutical University_\
 _*Founded by National College Students’ Innovation and Entrepreneurship Training Program_
   * Desciption: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
   * Contribution: Literature review, data processing, Conducting biochemical experiments, cellular experiments, and animal experiments, etc.
-  
+
+Scholarships, Grants and Awards
+======
+* Scholarships
+  * First Class Scholarship of Shanghai Jiao Tong University, 2021.9
+  * Scholarship Endowed By ApartGroup, 2021.6
+  * Second class scholarship of China Pharmaceutical University, 2018.9 and 2019.9 and 2020.9
+* Grants
+  * Founding of National College Students’ Innovation and Entrepreneurship Training Program, 2020.3
+* Awards
+  * The Gold Price of The 8th China “Internet +” College Student Innovation and Entrepreneurship Competition,
+Shanghai Division, 2022.9
+  * The Sliver Price of The 13th Challenge Cup National College Student Business Plan Competition, Shanghai
+Division, 2022.9
+  * Honor Certificate of Outstanding Graduates of China Pharmaceutical University, 2021.6
+  * Honor Certificate of Outstanding Student Cadres of China Pharmaceutical University, 2019.6
+  * Honor Certificate of Merit Student of China Pharmaceutical University, 2018.9
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-
-
+* Languages: Mandarin Chinese, English (IELTS 6.5)
+* Programming: Python, R
+* Software: SPSS, Origin, MOE, Graphpad, Flowjo, Photoshop, EndNote, Zotero, LaTeX
+* Techniques of biology: Cell Culture, Flow Cytometry, Real Time PCR, Western Blot, Animals Administration, Establishment of Animals Model
    
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
