@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Pharmacognosy/Lab"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Shanghai Jiao Tong University, School of Pharmacy"
+date: 2022-01-01
 location: "City, Country"
 ---
+An undergraduate course about pharmacognosy experients
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+*Pharmacognosy/Lab
+  *Instructor: Prof.LiuFu Deng (School of Pharmacy, SJTU)
