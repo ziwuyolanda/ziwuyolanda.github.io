@@ -8,5 +8,6 @@ date: 2022-01-01
 location: "City, Country"
 ---
 An undergraduate course about pharmacognosy experients
-*Pharmacognosy/Lab
- *Instructor: Prof.LiuFu Deng (School of Pharmacy, SJTU)
+* Pharmacognosy/Lab
+  * Instructor: Prof.LiuFu Deng (School of Pharmacy, SJTU)
+ 
