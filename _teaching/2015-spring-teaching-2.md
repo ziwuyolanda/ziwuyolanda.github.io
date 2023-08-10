@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Immunopharmacology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Teaching Assistant"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Shanghai Jiao Tong University, School of Pharmacy"
+date: 2022-01-01
 location: "City, Country"
 ---
+A postgraduate course about Immunopharmacology
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+*Immunopharmacology
+  *Instructor: Prof.LiuFu Deng (School of Pharmacy, SJTU)
