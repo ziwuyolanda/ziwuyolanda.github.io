@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Stem cell like CD8+T cells: a new force in cancer immunotherapy（In Submission) "
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This is a review article about the role of stem-like CD8 T cells in tumor immunotherapy.'
+date: 2023-01-01
+venue: 'July 1'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This is a review article about the role of stem-like CD8 T cells in tumor immunotherapy. The review discusses the molecular and functional characteristics of stem-like CD8+ T cells, explores intrinsic and extrinsic factors influencing CD8+ T cell stemness, and summarizes current strategies for reprogramming the stemness of CD8+ T cells targeted in immunotherapy.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+__Xu S__, Yang C, Deng L*. (2023) Stem cell like CD8+T cells: a new force in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy, Under Revision) (In Chinese**_)
