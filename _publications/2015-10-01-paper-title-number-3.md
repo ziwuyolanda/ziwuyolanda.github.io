@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about enhancing the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.'
 date: 2023-07-01
+venue: 'July 1'
 ---
 This paper is about enhancing the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
 
