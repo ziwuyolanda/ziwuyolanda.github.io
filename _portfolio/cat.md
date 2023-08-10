@@ -1,6 +1,6 @@
 ---
 title: "Cat"
-excerpt: "I have a lovely cat. <br/><img src='/images/cat.png'>"
+excerpt: "I have a lovely cat. <br/><img src='/images/cat1.png'>"
 collection: portfolio
 ---
 
