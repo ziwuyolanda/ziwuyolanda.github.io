@@ -11,21 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* Master of pharmacy in the branch of immunopharmacology, Shanghai Jiao Tong University, 2021-present
+  * GPA(3.44/4.00)
+  * Coursework: Artificial Intelligence Pharmacy(A+), Immunopharmacology(A+), Principles of Pharmaceutical Chemistry(A+), Academic Writing, Norms, and   Ethics(A), Biopharmaceuticals and Pharmacokinetics(A-)
+* Bachelors of pharmacy,China Pharmaceutical University, 2017-2021
+  * GPA(3.90/4.00)
+  * Coursework: Advanced Mathematics(94), Mathematical Statistics(93), Programming Language(91), Pharmacology(97), Organic Chemistry(96), Medicinal Chemistry(96), Microbiology(91), Instrumental Analysis(90), Human Anatomy and Physiology(89), Introduction to Clinical Medicine(89)
+  
+Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* __Xu S*__, Wang R. (2023) OdinDTA: Combining Mutual Attention and Pre-training for Drug-target Affinity Prediction. (_**The 35th IEEE International Conference on Tools with Artificial Intelligence**_, Under Review)
+* __Xu S__, Yang C, Deng L*. (2023) Stem cell like CD8+T cells: a new force in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy**_, In Submission) (In Chinese)
+    
+Research Projects
+======
+* Predicting microRNA-disease associations from exosome-coated microRNA(Leader), 2023.7-present
+  * Desciption: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
+  * Contribution: Literature review, model construction, data preprocessing, and article writing.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* OdinDTA–A model for predicting drug–target binding affinity(Leader), 2023.3-2023.7
+  * Desciption: The project aims to explore the mechanism through which radiotherapy and Androgen Receptor (AR) degradation synergistically promote the stem-like CD8 positive T cells, as well as to develop innovative drugs.
+  * Contribution:Literature review, model construction, data preprocessing, and article writing.
+
+* Radiation resistance with AR degradation(Member), 2022.12-present
+_Research project led by Prof.Deng in Shanghai Jiao Tong University_
+_*Founded by The National Natural Science Foundation of China_
+  * Desciption: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
+  * Contribution: Literature review, data processing, construction of protein expression systems, conducting flow cytometry analysis experiments, Western Blot experiments, qPCR experiments, cell experiments, animal experiments, etc.
+
+* Undergraduate Thesis–Flavonoid FV-429 inhibits metastasis in human prostate cancer, 2020.11-2021.5
+_Research project led by Prof.Guo in China Pharmaceutical University_
+  * Desciption: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
+  * Contribution: Literature review, data processing, article writting, construction of drug-resistant cell lines, conducting Western Blot experiments, qPCR experiments, Transwell assays, cell experiments, animal experiments, etc.
+  
+* 5-FU resistance mediated by FOS gene and its mechanism(Leader), 2019.2-2020.12
+_Research project assisted by Prof.Zhao in China Pharmaceutical University_
+_*Founded by National College Students’ Innovation and Entrepreneurship Training Program_
+  * Desciption: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
+  * Contribution: Literature review, data processing, Conducting biochemical experiments, cellular experiments, and animal experiments, etc.
   
 Skills
 ======
@@ -36,12 +59,10 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
+
+   
 Talks
 ======
   <ul>{% for post in site.talks %}
