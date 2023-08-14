@@ -30,8 +30,8 @@ Research Projects
   * Contribution: Literature review, model construction, data preprocessing, and article writing.
 
 * OdinDTA–A model for predicting drug–target binding affinity(Leader), 2023.3-2023.7
-  *Description:The project aims to enhance the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
-  *Contribution:Literature review, model construction, data preprocessing, and article writing.
+  * Description:The project aims to enhance the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
+  * Contribution:Literature review, model construction, data preprocessing, and article writing.
   
 * Radiation resistance with AR degradation(Member), 2022.12-present\
 _Research project led by Prof.Deng in Shanghai Jiao Tong University_\
