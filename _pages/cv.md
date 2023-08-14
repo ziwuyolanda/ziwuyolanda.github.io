@@ -26,28 +26,28 @@ Publications
 Research Projects
 ======
 * Predicting microRNA-disease associations from exosome-coated microRNA(Leader), 2023.7-present
-  * Desciption: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
+  * Description: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
   * Contribution: Literature review, model construction, data preprocessing, and article writing.
 
 * OdinDTA–A model for predicting drug–target binding affinity(Leader), 2023.3-2023.7
-  * Desciption: The project aims to explore the mechanism through which radiotherapy and Androgen Receptor (AR) degradation synergistically promote the stem-like CD8 positive T cells, as well as to develop innovative drugs.
-  * Contribution:Literature review, model construction, data preprocessing, and article writing.
-
+  *Description:The project aims to enhance the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
+  *Contribution:Literature review, model construction, data preprocessing, and article writing.
+  
 * Radiation resistance with AR degradation(Member), 2022.12-present\
 _Research project led by Prof.Deng in Shanghai Jiao Tong University_\
 _*Founded by The National Natural Science Foundation of China_
-  * Desciption: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
-  * Contribution: Literature review, data processing, construction of protein expression systems, conducting flow cytometry analysis experiments, Western Blot experiments, qPCR experiments, cell experiments, animal experiments, etc.
-
+  * Description: The project aims to explore the mechanism through which radiotherapy and Androgen Receptor (AR) degradation synergistically promote the stem-like CD8 positive T cells, as well as to develop innovative drugs.
+  * Contribution:Literature review, data processing, construction of protein expression systems, conducting flow cytometry analysis experiments, Western Blot experiments, qPCR experiments, cell experiments, animal experiments, etc.
+  
 * Undergraduate Thesis–Flavonoid FV-429 inhibits metastasis in human prostate cancer, 2020.11-2021.5\
 _Research project led by Prof.Guo in China Pharmaceutical University_
-  * Desciption: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
+  * Description: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
   * Contribution: Literature review, data processing, article writting, construction of drug-resistant cell lines, conducting Western Blot experiments, qPCR experiments, Transwell assays, cell experiments, animal experiments, etc.
   
 * 5-FU resistance mediated by FOS gene and its mechanism(Leader), 2019.2-2020.12\
 _Research project assisted by Prof.Zhao in China Pharmaceutical University_\
 _*Founded by National College Students’ Innovation and Entrepreneurship Training Program_
-  * Desciption: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
+  * Description: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
   * Contribution: Literature review, data processing, Conducting biochemical experiments, cellular experiments, and animal experiments, etc.
 
 Scholarships, Grants and Awards
