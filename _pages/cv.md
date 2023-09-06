@@ -57,6 +57,7 @@ _*Founded by National College Students’ Innovation and Entrepreneurship Traini
     * We discovered that the FOS gene is associated with the 5-FU resistance mechanism in colorectal cancer.
     * Further investigation revealed that the FOS gene enhances the stemness of colorectal cancer cells by regulating the Nango transcription factor, thereby inducing drug resistance.
     * In the end, we successfully reversed drug resistance by using the small molecule inhibitor natural flavonoid GL-V9 targeting the FOS gene, demonstrating that this small molecule can serve as a targeted inhibitor of the FOS gene.
+
 Scholarships, Grants and Awards
 ======
 * Scholarships
