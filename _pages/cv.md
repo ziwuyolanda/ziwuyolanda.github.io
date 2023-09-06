@@ -44,7 +44,10 @@ _*Founded by The National Natural Science Foundation of China_
 * __Undergraduate Thesis–Flavonoid FV-429 inhibits metastasis in human prostate cancer__, 2020.11-2021.5\
 _Research project led by Prof.Guo in China Pharmaceutical University_
   * _**Description**_: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
-  * _**Contribution**_:
+  * _**Contribution**_:\
+    * We found that FV-429 inhibits the proliferation, invasion, and migration of human prostate cancer cells.
+    * FV-429 can reverse the epithelial-mesenchymal transition (EMT) phenomenon in prostate tumors.
+    * We ultimately concluded that FV-429 reverses the EMT phenomenon and ultimately impacts the invasion and migration of tumor cells in human prostate cancer by inhibiting glycolysis
     
   
 * 5-FU resistance mediated by FOS gene and its mechanism(Leader), 2019.2-2020.12\
