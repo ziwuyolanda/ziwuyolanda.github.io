@@ -21,7 +21,7 @@ Education
 Publications
 ======
 * __Xu S*__, Wang R. (2023) OdinDTA: Combining Mutual Attention and Pre-training for Drug-target Affinity Prediction. (_**The 35th IEEE International Conference on Tools with Artificial Intelligence**_, Accept)
-* __Xu S__, Yang C, Deng L*. (2023) Stem cell like CD8+T cells: a new force in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy**_, Accept) (In Chinese)
+* __Xu S__, Yang C, Deng L*. (2023) Stem cell-like CD8+ T cells: a new pioneer in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy**_, Accept) (In Chinese)
     
 Research Projects
 ======
@@ -39,8 +39,7 @@ Research Projects
 _Research project led by Prof.Deng in Shanghai Jiao Tong University_\
 _*Founded by The National Natural Science Foundation of China_
   * _**Description**_: The project aims to explore the mechanism through which radiotherapy and Androgen Receptor (AR) degradation synergistically promote the stem-like CD8 positive T cells, as well as to develop innovative drugs.
-  * _**Contribution**_:Literature review, data processing, construction of protein expression systems, conducting flow cytometry analysis experiments, Western Blot experiments, qPCR experiments, cell experiments, animal experiments, etc.
-  
+   
 * __Undergraduate Thesis–Flavonoid FV-429 inhibits metastasis in human prostate cancer__, 2020.11-2021.5\
 _Research project led by Prof.Guo in China Pharmaceutical University_
   * _**Description**_: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
@@ -50,12 +49,14 @@ _Research project led by Prof.Guo in China Pharmaceutical University_
     * We ultimately concluded that FV-429 reverses the EMT phenomenon and ultimately impacts the invasion and migration of tumor cells in human prostate cancer by inhibiting glycolysis
     
   
-* 5-FU resistance mediated by FOS gene and its mechanism(Leader), 2019.2-2020.12\
+* __5-FU resistance mediated by FOS gene and its mechanism(Leader)__, 2019.2-2020.12\
 _Research project assisted by Prof.Zhao in China Pharmaceutical University_\
 _*Founded by National College Students’ Innovation and Entrepreneurship Training Program_
-  * Description: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
-  * Contribution: Literature review, data processing, Conducting biochemical experiments, cellular experiments, and animal experiments, etc.
-
+  * _**Description**_: The aim of this study is to investigate the relevance and role of the FOS gene in the process of 5-FU resistance in colorectal cancer, and to explore the downstream regulated proteins influenced by it.
+  * _**Contribution**_:
+    * We discovered that the FOS gene is associated with the 5-FU resistance mechanism in colorectal cancer.
+    * Further investigation revealed that the FOS gene enhances the stemness of colorectal cancer cells by regulating the Nango transcription factor, thereby inducing drug resistance.
+    * In the end, we successfully reversed drug resistance by using the small molecule inhibitor natural flavonoid GL-V9 targeting the FOS gene, demonstrating that this small molecule can serve as a targeted inhibitor of the FOS gene.
 Scholarships, Grants and Awards
 ======
 * Scholarships
