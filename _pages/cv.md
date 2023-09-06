@@ -30,9 +30,9 @@ Research Projects
 
 * __OdinDTA–A model for predicting drug–target binding affinity(Leader)__, 2023.3-2023.7
   * _**Description**_:The project aims to enhance the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
-  * _**Contribution**_:\
-    * Through the mutual attention mechanism with shared weights, we address the issue of insufficient simulation of complex interactions between drugs and targets and provide the model with good interpretability.\
-    * We apply pre-trained protein models to learn from a large amount of unlabeled protein data, thereby resolving the issue of insufficient richness in the protein features.\
+  * _**Contribution**_:
+    * Through the mutual attention mechanism with shared weights, we address the issue of insufficient simulation of complex interactions between drugs and targets and provide the model with good interpretability.
+    * We apply pre-trained protein models to learn from a large amount of unlabeled protein data, thereby resolving the issue of insufficient richness in the protein features.
     * Generalized Aggregation Graph Networ (GEN) is used to extract deeper topological structural information
   
 * __Radiation resistance with AR degradation(Member)__, 2022.12-present\
@@ -44,7 +44,7 @@ _*Founded by The National Natural Science Foundation of China_
 * __Undergraduate Thesis–Flavonoid FV-429 inhibits metastasis in human prostate cancer__, 2020.11-2021.5\
 _Research project led by Prof.Guo in China Pharmaceutical University_
   * _**Description**_: The aim of this study is to investigate the role of the glycolysis mechanism in the inhibition of human prostate cancer cell metastasis by the flavonoid derivative FV-429 derived from wogonin, and provide a theoretical basis for new drug development.
-  * _**Contribution**_:\
+  * _**Contribution**_:
     * We found that FV-429 inhibits the proliferation, invasion, and migration of human prostate cancer cells.
     * FV-429 can reverse the epithelial-mesenchymal transition (EMT) phenomenon in prostate tumors.
     * We ultimately concluded that FV-429 reverses the EMT phenomenon and ultimately impacts the invasion and migration of tumor cells in human prostate cancer by inhibiting glycolysis
