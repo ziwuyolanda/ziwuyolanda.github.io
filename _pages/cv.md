@@ -20,18 +20,20 @@ Education
   
 Publications
 ======
-* __Xu S*__, Wang R. (2023) OdinDTA: Combining Mutual Attention and Pre-training for Drug-target Affinity Prediction. (_**The 35th IEEE International Conference on Tools with Artificial Intelligence**_, Under Review)
-* __Xu S__, Yang C, Deng L*. (2023) Stem cell like CD8+T cells: a new force in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy**_, In Submission) (In Chinese)
+* __Xu S*__, Wang R. (2023) OdinDTA: Combining Mutual Attention and Pre-training for Drug-target Affinity Prediction. (_**The 35th IEEE International Conference on Tools with Artificial Intelligence**_, Accept)
+* __Xu S__, Yang C, Deng L*. (2023) Stem cell like CD8+T cells: a new force in cancer immunotherapy. (_**Chinese Journal of Cancer Biotherapy**_, Accept) (In Chinese)
     
 Research Projects
 ======
 * Predicting microRNA-disease associations from exosome-coated microRNA(Leader), 2023.7-present
-  * Description: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through autoencoders and multiveiw learning.
-  * Contribution: Literature review, model construction, data preprocessing, and article writing.
+  * Description: The project aims to dsicover disease-associated miRNA more precisely by combining exosome-miRNA related data through heterogeneous graph network
 
 * OdinDTA–A model for predicting drug–target binding affinity(Leader), 2023.3-2023.7
   * Description:The project aims to enhance the accuracy, interpretability, and generalization capability of drug-target affinity prediction tasks by employing a model that combines mutual attention mechanisms and pre-training tasks.
-  * Contribution:Literature review, model construction, data preprocessing, and article writing.
+  * Contribution:\
+    1.Through the mutual attention mechanism with shared weights, we address the issue of insufficient simulation of complex interactions between drugs and targets and provide the model with good interpretability.\
+    2.We apply pre-trained protein models to learn from a large amount of unlabeled protein data, thereby resolving the issue of insufficient richness in the protein features.\
+    3.Generalized Aggregation Graph Networ (GEN) is used to extract deeper topological structural information
   
 * Radiation resistance with AR degradation(Member), 2022.12-present\
 _Research project led by Prof.Deng in Shanghai Jiao Tong University_\
