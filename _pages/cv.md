@@ -77,7 +77,7 @@ Division, 2022.9
 Skills
 ======
 * Languages: Mandarin Chinese, English (IELTS 6.5)
-* Programming: Python, R, MatLab
+* Programming: Python, R
 * Software: SPSS, Origin, MOE, Graphpad, Flowjo, Photoshop, EndNote, Zotero, LaTeX
 * Techniques of biology: Cell Culture, Flow Cytometry, Real Time PCR, Western Blot, Animals Administration, Establishment of Animals Model
    
